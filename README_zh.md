@@ -58,6 +58,6 @@ Journey Map Merger是一个用于合并Journey Map的数据文件的工具，它
 [issues-shield]: https://img.shields.io/github/issues/YaoerWu/journeymerger.svg?style=for-the-badge
 [issues-url]: https://github.com/YaoerWu/journeymerger/issues
 [license-shield]: https://img.shields.io/github/license/YaoerWu/journeymerger.svg?style=for-the-badge
-[license-url]: https://github.com/YaoerWu/journeymerger/blob/master/LICENSE.txt
+[license-url]: https://github.com/YaoerWu/journeymerger/blob/main/LICENSE.txt
 [install-screenshot]: images/install_screenshot.png
 [exported-screenshot]: images/exported_screenshot.png
